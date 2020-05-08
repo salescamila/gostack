@@ -4,6 +4,7 @@
 
 Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento de desafios a cada tema novo, segue abaixo todos os repositórios criados durante o curso.
 
+## Índice de repositórios
 ### Nível 01 - Conceitos Importantes
 #### :white_check_mark: Done
 1. [Conceitos de NodeJS](https://github.com/salescamila/gostack-01.conceitos_node)
@@ -25,3 +26,6 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 ### Nível 04
 ...
 
+
+### Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
+[Índice de desafios](https://github.com/Rocketseat/bootcamp-gostack-desafios)
