@@ -11,12 +11,12 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 2. [\[DESAFIO\] Conceitos do Node.js](https://github.com/salescamila/gostack-02.desafio_02_conceitos_node)
 3. [Front-end com ReactJS](https://github.com/salescamila/gostack-03.front-end_reactjs)
 4. [\[DESAFIO\] Conceitos de ReactJS](https://github.com/salescamila/gostack-04.desafio_03_conceitos_reactjs)
-
-#### :computer: Doing...
 5. [Mobile com React Native](https://github.com/salescamila/gostack-05.conceitos_react_native)
 
+#### :computer: Doing...
+6. [\[DESAFIO\] Conceitos do React Native](https://github.com/salescamila/gostack-06.desafio_04_conceitos_react_native)
+
 #### :white_large_square: To-Do
-6. [DESAFIO] Conceitos do React Native
 7. TypeScript
 
 
