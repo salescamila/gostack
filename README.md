@@ -16,7 +16,7 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 
 ### Nível 02
 #### :computer: Doing...
-1. Primeiro projeto com Node.JS
+1. [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
 
 #### :white_large_square: To-Do
 2. [DESAFIO] Fundamentos Node.js
