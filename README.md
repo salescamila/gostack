@@ -15,11 +15,13 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 7. [TypeScript](https://github.com/salescamila/gostack-07.conceitos_typescript.git)
 
 ### Nível 02
-#### :computer: Doing...
+#### :white_check_mark: Done
 1. [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
 
+#### :computer: Doing...
+2. [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-08.desafio_05_fundamentos_node)
+
 #### :white_large_square: To-Do
-2. [DESAFIO] Fundamentos Node.js
 3. Iniciando back-end do app
 4. [DESAFIO] Database upload
 
@@ -31,6 +33,9 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 ...
 ### Nível 05
 ...
+### Nível 06
+...
+
 
 ### Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
 [Índice de desafios](https://github.com/Rocketseat/bootcamp-gostack-desafios)
