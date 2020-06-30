@@ -19,7 +19,7 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 1. [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
 
 #### :computer: Doing...
-2. [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-08.desafio_05_fundamentos_node)
+2. [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-09.desafio_05_fundamentos_node)
 
 #### :white_large_square: To-Do
 3. Iniciando back-end do app
