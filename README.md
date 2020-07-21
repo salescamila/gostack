@@ -18,15 +18,13 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 #### :white_check_mark: Done
 1. [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
 2. [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-09.desafio_05_fundamentos_node)
-
-#### :computer: Doing...
 3. [Iniciando back-end do app](https://github.com/salescamila/gostack-10.backend_GoBarber)
 
+#### :computer: Doing...
+4. [\[DESAFIO\] Database upload(https://github.com/salescamila/gostack-11.desafio_06_database_upload)
+
+
 #### :white_large_square: To-Do
-4. [DESAFIO] Database upload
-
-
-
 ### Nível 03
 ...
 ### Nível 04
