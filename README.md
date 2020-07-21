@@ -21,7 +21,7 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 3. [Iniciando back-end do app](https://github.com/salescamila/gostack-10.backend_GoBarber)
 
 #### :computer: Doing...
-4. [\[DESAFIO\] Database upload(https://github.com/salescamila/gostack-11.desafio_06_database_upload)
+4. [\[DESAFIO\] Database upload](https://github.com/salescamila/gostack-11.desafio_06_database_upload)
 
 
 #### :white_large_square: To-Do
