@@ -14,19 +14,18 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 6. [\[DESAFIO\] Conceitos do React Native](https://github.com/salescamila/gostack-06.desafio_04_conceitos_react_native)
 7. [TypeScript](https://github.com/salescamila/gostack-07.conceitos_typescript.git)
 
-### Nível 02
+### Nível 02 - :white_check_mark:
 #### :white_check_mark: Done
 1. [Primeiro projeto com Node.JS](https://github.com/salescamila/gostack-08.primeiro_projeto_node)
 2. [\[DESAFIO\] Fundamentos Node.js](https://github.com/salescamila/gostack-09.desafio_05_fundamentos_node)
 3. [Iniciando back-end do app](https://github.com/salescamila/gostack-10.backend_GoBarber)
-
-#### :computer: Doing...
 4. [\[DESAFIO\] Database upload](https://github.com/salescamila/gostack-11.desafio_06_database_upload)
 
-
-#### :white_large_square: To-Do
+#### :computer: Doing...
 ### Nível 03
 ...
+
+#### :white_large_square: To-Do
 ### Nível 04
 ...
 ### Nível 05
