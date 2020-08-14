@@ -22,7 +22,7 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 
 ### Nível 03 - :computer: Doing...
 1. :white_check_mark: [Primeiro projeto com ReactJS](https://github.com/salescamila/gostack-12.primeiro_projeto_react)
-2. :white_large_square: [\[DESAFIO\] Fundamentos ReactJS](https://github.com/salescamila/gostack-13.desafio_07_fundamentos_reactjs)
+2. :white_check_mark: [\[DESAFIO\] Fundamentos ReactJS](https://github.com/salescamila/gostack-13.desafio_07_fundamentos_reactjs)
 3. :white_large_square: Iniciando front-end web
 4. :white_large_square: Iniciando aplicativo mobile
 5. :white_large_square: [DESAFIO] Fundamentos React Native
