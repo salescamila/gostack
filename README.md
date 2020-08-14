@@ -5,7 +5,7 @@
 Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento de desafios a cada tema novo, segue abaixo todos os repositórios criados durante o curso.
 
 ## Índice de repositórios
-### Nível 01 - Conceitos de Node.js, ReactJS, React Native e Typescript
+### Nível 01 - Conceitos de Node.JS, ReactJS, React Native e Typescript
 1. :white_check_mark: [Back-end com Node.js](https://github.com/salescamila/gostack-01.conceitos_node)
 2. :white_check_mark: [\[DESAFIO\] Conceitos do Node.js](https://github.com/salescamila/gostack-02.desafio_02_conceitos_node)
 3. :white_check_mark: [Front-end com ReactJS](https://github.com/salescamila/gostack-03.front-end_reactjs)
@@ -20,20 +20,30 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 3. :white_check_mark: [Iniciando back-end do app](https://github.com/salescamila/gostack-10.backend_GoBarber)
 4. :white_check_mark: [\[DESAFIO\] Database upload](https://github.com/salescamila/gostack-11.desafio_06_database_upload)
 
-### Nível 03 - :computer: Início do front-end do GoBarber
+### Nível 03 - Início do front-end do GoBarber
 1. :white_check_mark: [Primeiro projeto com ReactJS](https://github.com/salescamila/gostack-12.primeiro_projeto_react)
 2. :white_check_mark: [\[DESAFIO\] Fundamentos ReactJS](https://github.com/salescamila/gostack-13.desafio_07_fundamentos_reactjs)
 3. :computer: [Iniciando front-end web](https://github.com/salescamila/gostack-14.GoBarber_web) 
 4. :white_large_square: Iniciando aplicativo mobile
 5. :white_large_square: [DESAFIO] Fundamentos React Native
 
+### Nível 04 - Arquitetura e testes no Node.js
+1. :white_large_square: Arquitetura e testes no Node.js
+2. :white_large_square: Continuando back-end do app
+3. :white_large_square: Finalizando back-end do app
+4. :white_large_square: [DESAFIO] Database relations
 
-### Nível 04 - :white_large_square: To-Do
-...
-### Nível 05 - :white_large_square: To-Do
-...
-### Nível 06 - :white_large_square: To-Do
-...
+### Nível 05 - Finalizando front-ends e testes no ReactJS
+1. :white_large_square: Finalizando front-end web do app
+2. :white_large_square: [DESAFIO] GoRestaurant Web
+3. :white_large_square: Finalizando front-end mobile do app
+4. :white_large_square: [DESAFIO] GoRestaurant Mobile
+5. :white_large_square: Testes no ReactJS
+
+### Nível 06 - Deploy de aplicações
+1. :white_large_square: Deploy de aplicações Node.JS
+2. :white_large_square: Deploy de aplicações React.JS
+3. :white_large_square: Publicação de apps com React Native
 
 
 ### Repositório contendo todos os desafios dos módulos do Bootcamp Gostack
