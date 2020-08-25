@@ -23,8 +23,8 @@ Seguindo a metodologia de explicar os conceitos enquanto codifica e lançamento 
 ### Nível 03 - Início do front-end do GoBarber
 1. :white_check_mark: [Primeiro projeto com ReactJS](https://github.com/salescamila/gostack-12.primeiro_projeto_react)
 2. :white_check_mark: [\[DESAFIO\] Fundamentos ReactJS](https://github.com/salescamila/gostack-13.desafio_07_fundamentos_reactjs)
-3. :computer: [Iniciando front-end web](https://github.com/salescamila/gostack-14.GoBarber_web) 
-4. :white_large_square: Iniciando aplicativo mobile
+3. :white_check_mark: [Iniciando front-end web](https://github.com/salescamila/gostack-14.GoBarber_web) 
+4. :computer: [Iniciando aplicativo mobile](https://github.com/salescamila/gostack-15.GoBarber_app)
 5. :white_large_square: [DESAFIO] Fundamentos React Native
 
 ### Nível 04 - Arquitetura e testes no Node.js
